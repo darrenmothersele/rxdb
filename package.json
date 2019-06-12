@@ -71,10 +71,6 @@
   "peerDependencies": {
     "rxjs": "^6.1.0"
   },
-  "optionalDependencies": {
-    "express": "4.17.1",
-    "express-pouchdb": "4.1.0"
-  },
   "dependencies": {
     "@babel/runtime": "7.4.5",
     "broadcast-channel": "2.1.12",
