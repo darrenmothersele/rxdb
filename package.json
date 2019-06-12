@@ -71,6 +71,10 @@
   "peerDependencies": {
     "rxjs": "^6.1.0"
   },
+  "optionalDependencies": {
+    "express": "4.17.1",
+    "express-pouchdb": "4.1.0",
+  },
   "dependencies": {
     "@babel/runtime": "7.4.5",
     "broadcast-channel": "2.1.12",
@@ -79,8 +83,6 @@
     "crypto-js": "^3.1.8",
     "custom-idle-queue": "2.1.2",
     "deep-equal": "^1.0.1",
-    "express": "4.17.1",
-    "express-pouchdb": "4.1.0",
     "is-electron": "2.2.0",
     "is-my-json-valid": "2.20.0",
     "modifyjs": "0.3.1",
